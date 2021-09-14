@@ -1,0 +1,13 @@
+{
+    "plugins": [
+        "cypress",
+        "chai-friendly"
+    ],
+    "rules": {
+        "indent": ["error", 4],
+        "no-unused-expressions": 0,
+        "chai-friendly/no-unused-expressions": 2,
+        "semi": "off",
+        "quotes": ["error", "single", { "avoidEscape": true }]
+    }
+  }

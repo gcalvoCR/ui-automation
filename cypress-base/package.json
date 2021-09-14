@@ -1,0 +1,17 @@
+{
+  "name": "ui-automation",
+  "version": "1.0.0",
+  "description": "Base repo to start automating using",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.4.0",
+    "eslint-plugin-cypress": "^2.11.3"
+  }
+}

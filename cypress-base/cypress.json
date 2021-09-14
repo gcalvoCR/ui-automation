@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://example.cypress.io",
+    "defaultCommandTimeout": 5000,
+    "e2e": {
+      "defaultCommandTimeout": 10000
+    }
+  }
